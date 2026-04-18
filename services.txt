@@ -1,0 +1,2 @@
+1,Hair Cut,Hair,1500.0,30 min,Basic hair cutting service
+2,Facial,Skin,3000.0,45 min,Deep skin facial treatment
